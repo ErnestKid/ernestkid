@@ -1,4 +1,5 @@
-### Hai. My name is Ernest and I'm just somoeone on GitHub. I just make small projects that most likely won't see the light of day lol
+### Hai. My name is Ernest
+I'm just somoeone on GitHub. I just make small projects that most likely won't see the light of day lol
 
 Have a good day!
 

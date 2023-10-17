@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hai. My name is Ernest and I'm just somoeone on GitHub. I just make small projects that most likely won't see the light of day lol
+
+Have a good day!
 
 <!--
 **ErnestKid/ernestkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
